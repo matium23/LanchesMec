@@ -1,0 +1,36 @@
+﻿@model IEnumerable<LanchesMac.Models.Lanche>
+
+@{
+    ViewData["Title"] = "List";
+}
+
+<div>
+    <h2> Todos os Lanches</h2>
+</div>
+
+<div class="container">
+    <div class="row">
+
+        @foreach (var lanche in Model)
+        {
+            <div class="col-sm-4 col-md-4 col-lg-4">
+                <p><img src="@lanche.ImagemUrl" class="img-fluid" /></p>
+                <h3>Preço : @lanche.Preco.ToString("c")</h3>
+                <h4>@lanche.Nome</h4>
+                <p>@lanche.DescricaoCurta</p>
+            </div>
+        }
+    </div>
+</div>
+
+<!--
+    A logica foi definida dentro da tag atravez de um codigo razor, fazendo um foreach
+    e colocando tags como h4, P e h3 para imprimir na tela o resultado do laço
+    a cada iteração ele pegara uma propriedade de lanche com sua imagem e preço, imprimindo na tela
+    o Razor pode ser colocado diretamente na tag sem necessidade de passar para variaveis
+
+    Foram definidas clases do bootstrap em que colocam os elementos em uma Conainer e em colunas
+    Dentro do foreach foi definida os tipos de colunas de acordo com os dispositivos que irao se conectar
+    (sm = Pegqueno) (md = Medio) (Lg = Grande)
+
+-->

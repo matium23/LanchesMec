@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\LanchesMac\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0485DFC-76AE-400F-AA28-73FC053ADD51}|LanchesMac\\LanchesMac.csproj|c:\\projetos\\lanchesmac\\lanchesmac\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0485DFC-76AE-400F-AA28-73FC053ADD51}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0485DFC-76AE-400F-AA28-73FC053ADD51}|LanchesMac\\LanchesMac.csproj|c:\\projetos\\lanchesmac\\lanchesmac\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0485DFC-76AE-400F-AA28-73FC053ADD51}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0485DFC-76AE-400F-AA28-73FC053ADD51}|LanchesMac\\LanchesMac.csproj|c:\\projetos\\lanchesmac\\lanchesmac\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0485DFC-76AE-400F-AA28-73FC053ADD51}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0485DFC-76AE-400F-AA28-73FC053ADD51}|LanchesMac\\LanchesMac.csproj|c:\\projetos\\lanchesmac\\lanchesmac\\views\\lanche\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0485DFC-76AE-400F-AA28-73FC053ADD51}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\views\\lanche\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\LanchesMac\\LanchesMac\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "LanchesMac\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Projetos\\LanchesMac\\LanchesMac\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "LanchesMac\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T09:08:23.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\LanchesMac\\LanchesMac\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "LanchesMac\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Projetos\\LanchesMac\\LanchesMac\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "LanchesMac\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T08:40:13.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\LanchesMac\\LanchesMac\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LanchesMac\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Projetos\\LanchesMac\\LanchesMac\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LanchesMac\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T08:33:49.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\LanchesMac\\LanchesMac\\Views\\Lanche\\List.cshtml",
+              "RelativeDocumentMoniker": "LanchesMac\\Views\\Lanche\\List.cshtml",
+              "ToolTip": "C:\\Projetos\\LanchesMac\\LanchesMac\\Views\\Lanche\\List.cshtml",
+              "RelativeToolTip": "LanchesMac\\Views\\Lanche\\List.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T22:23:44.161Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
