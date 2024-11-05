@@ -1,24 +1,25 @@
-﻿@model IEnumerable<LanchesMac.Models.Lanche>
+﻿@model LancheListViewModel //esse name space e referenciado na classe _ViewImports
 
 @{
     ViewData["Title"] = "List";
 }
 
 <div>
-    <h2> Todos os Lanches</h2>
+    <h2> @Model.CategoriaAtual</h2> <!--Propriedade da classe LacheListViewModel--> 
 </div>
 
 <div class="container">
     <div class="row">
 
-        @foreach (var lanche in Model)
+        @foreach (var lanche in Model.Lanches)
         {
-            <div class="col-sm-4 col-md-4 col-lg-4">
-                <p><img src="@lanche.ImagemUrl" class="img-fluid" /></p>
-                <h3>Preço : @lanche.Preco.ToString("c")</h3>
-                <h4>@lanche.Nome</h4>
-                <p>@lanche.DescricaoCurta</p>
-            </div>
+            <partial name ="_LanchesResumo" for="@lanche" /> 
+
+            /*
+            Aqui e referenciado a partial view e como ela esta na pasata shared nao e preciso 
+            por a extenção, a refernecia dos dados vem da variavel (lanche) que esta no foreach
+
+            */
         }
     </div>
 </div>

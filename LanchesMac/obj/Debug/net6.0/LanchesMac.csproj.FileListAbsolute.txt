@@ -273,3 +273,4 @@ C:\Projetos\LanchesMac\LanchesMac\bin\Debug\net6.0\Microsoft.Extensions.Caching.
 C:\Projetos\LanchesMac\LanchesMac\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Projetos\LanchesMac\LanchesMac\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Projetos\LanchesMac\LanchesMac\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Projetos\LanchesMac\LanchesMac\obj\Debug\net6.0\LanchesMac.sourcelink.json
