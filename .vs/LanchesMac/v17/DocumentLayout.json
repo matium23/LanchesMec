@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\PROJETOS\\LanchesMec\\",
+  "WorkspaceRootPath": "C:\\Projetos\\LanchesMac\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A0485DFC-76AE-400F-AA28-73FC053ADD51}|LanchesMac\\LanchesMac.csproj|c:\\projetos\\lanchesmec\\lanchesmac\\models\\carrinhocompraitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0485DFC-76AE-400F-AA28-73FC053ADD51}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\models\\carrinhocompraitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A0485DFC-76AE-400F-AA28-73FC053ADD51}|LanchesMac\\LanchesMac.csproj|c:\\projetos\\lanchesmac\\lanchesmac\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0485DFC-76AE-400F-AA28-73FC053ADD51}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0485DFC-76AE-400F-AA28-73FC053ADD51}|LanchesMac\\LanchesMac.csproj|c:\\projetos\\lanchesmec\\lanchesmac\\contexto\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0485DFC-76AE-400F-AA28-73FC053ADD51}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\contexto\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projetos\\LanchesMac\\LanchesMac\\Migrations\\20241105232238_LanchesViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LanchesMac\\Migrations\\20241105232238_LanchesViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0485DFC-76AE-400F-AA28-73FC053ADD51}|LanchesMac\\LanchesMac.csproj|c:\\projetos\\lanchesmec\\lanchesmac\\views\\lanche\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A0485DFC-76AE-400F-AA28-73FC053ADD51}|LanchesMac\\LanchesMac.csproj|c:\\projetos\\lanchesmac\\lanchesmac\\views\\lanche\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A0485DFC-76AE-400F-AA28-73FC053ADD51}|LanchesMac\\LanchesMac.csproj|solutionrelative:lanchesmac\\views\\lanche\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -22,41 +22,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\PROJETOS\\LanchesMec\\LanchesMac\\Contexto\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "LanchesMac\\Contexto\\AppDbContext.cs",
-              "ToolTip": "C:\\PROJETOS\\LanchesMec\\LanchesMac\\Contexto\\AppDbContext.cs",
-              "RelativeToolTip": "LanchesMac\\Contexto\\AppDbContext.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAA3wA4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Projetos\\LanchesMac\\LanchesMac\\Startup.cs",
+              "RelativeDocumentMoniker": "LanchesMac\\Startup.cs",
+              "ToolTip": "C:\\Projetos\\LanchesMac\\LanchesMac\\Startup.cs",
+              "RelativeToolTip": "LanchesMac\\Startup.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA4wCAAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T16:46:10.036Z",
+              "WhenOpened": "2024-11-05T23:25:28.762Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CarrinhoCompraItem.cs",
-              "DocumentMoniker": "C:\\PROJETOS\\LanchesMec\\LanchesMac\\Models\\CarrinhoCompraItem.cs",
-              "RelativeDocumentMoniker": "LanchesMac\\Models\\CarrinhoCompraItem.cs",
-              "ToolTip": "C:\\PROJETOS\\LanchesMec\\LanchesMac\\Models\\CarrinhoCompraItem.cs",
-              "RelativeToolTip": "LanchesMac\\Models\\CarrinhoCompraItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "20241105232238_LanchesViewModel.cs",
+              "DocumentMoniker": "C:\\Projetos\\LanchesMac\\LanchesMac\\Migrations\\20241105232238_LanchesViewModel.cs",
+              "RelativeDocumentMoniker": "LanchesMac\\Migrations\\20241105232238_LanchesViewModel.cs",
+              "ToolTip": "C:\\Projetos\\LanchesMac\\LanchesMac\\Migrations\\20241105232238_LanchesViewModel.cs",
+              "RelativeToolTip": "LanchesMac\\Migrations\\20241105232238_LanchesViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T16:43:11.405Z",
+              "WhenOpened": "2024-11-05T23:22:38.591Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "List.cshtml",
-              "DocumentMoniker": "C:\\PROJETOS\\LanchesMec\\LanchesMac\\Views\\Lanche\\List.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\LanchesMac\\LanchesMac\\Views\\Lanche\\List.cshtml",
               "RelativeDocumentMoniker": "LanchesMac\\Views\\Lanche\\List.cshtml",
-              "ToolTip": "C:\\PROJETOS\\LanchesMec\\LanchesMac\\Views\\Lanche\\List.cshtml",
+              "ToolTip": "C:\\Projetos\\LanchesMac\\LanchesMac\\Views\\Lanche\\List.cshtml",
               "RelativeToolTip": "LanchesMac\\Views\\Lanche\\List.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",

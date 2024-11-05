@@ -25,6 +25,13 @@ public class Startup
         //Configurando o Escopo
         services.AddTransient<ILancheRepository, LancheRepository>();
         services.AddTransient<ICategoriaRepository,CategoriaRepository>();
+
+        //Registrando os midware da sessão
+        services.AddMemoryCache();
+        services.AddSession();
+
+        //Definindo o tempo de vida da Section (Singleton)vale o quanto durar a aplicação
+        services.AddSingleton<IHttpContextAccessor,HttpContextAccessor>();
     }
 
     // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -46,6 +53,9 @@ public class Startup
         app.UseRouting();
 
         app.UseAuthorization();
+
+        //Ativando a Sessão
+        app.UseSession();
 
         app.UseEndpoints(endpoints =>
         {

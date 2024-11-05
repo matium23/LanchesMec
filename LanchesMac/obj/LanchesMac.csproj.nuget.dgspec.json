@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\PROJETOS\\LanchesMec\\LanchesMac\\LanchesMac.csproj": {}
+    "C:\\Projetos\\LanchesMac\\LanchesMac\\LanchesMac.csproj": {}
   },
   "projects": {
-    "C:\\PROJETOS\\LanchesMec\\LanchesMac\\LanchesMac.csproj": {
+    "C:\\Projetos\\LanchesMac\\LanchesMac\\LanchesMac.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PROJETOS\\LanchesMec\\LanchesMac\\LanchesMac.csproj",
+        "projectUniqueName": "C:\\Projetos\\LanchesMac\\LanchesMac\\LanchesMac.csproj",
         "projectName": "LanchesMac",
-        "projectPath": "C:\\PROJETOS\\LanchesMec\\LanchesMac\\LanchesMac.csproj",
-        "packagesPath": "C:\\Users\\kurme\\.nuget\\packages\\",
-        "outputPath": "C:\\PROJETOS\\LanchesMec\\LanchesMac\\obj\\",
+        "projectPath": "C:\\Projetos\\LanchesMac\\LanchesMac\\LanchesMac.csproj",
+        "packagesPath": "C:\\Users\\Roberto\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\LanchesMac\\LanchesMac\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kurme\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Roberto\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
